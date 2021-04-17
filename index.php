@@ -24,7 +24,7 @@ body {
     <h1><u>TASK 1(Technical)<u></h1>
 <h1><u>BASIC BANKING SYSTEM<u></h1>
     
-    <center><h2 class="name"><u> DESIGNED BY:-SANDLI SAMAIYA<u></h2></center>
+    <center><h2 class="name"><u> DESIGNED BY:-SREEJHARI SIVALENKA<u></h2></center>
 <a href="./index1.php" class="btn">Get Started</a>
     
     
