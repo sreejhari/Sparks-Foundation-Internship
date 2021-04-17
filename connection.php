@@ -1,7 +1,7 @@
 <?php 
 
-$server="localhost";
-$username="root";
+$server="heroku";
+$username="sivalenka sreejhari";
 $password="";
 $db="bank";
 
